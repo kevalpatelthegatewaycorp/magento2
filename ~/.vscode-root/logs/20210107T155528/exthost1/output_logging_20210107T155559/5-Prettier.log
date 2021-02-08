@@ -1,0 +1,41 @@
+["INFO" - 3:55:59 pm] Extension Name: esbenp.prettier-vscode.
+["INFO" - 3:55:59 pm] Extension Version: 5.8.0.
+["INFO" - 3:55:59 pm] Enabling prettier for languages: ansible, css, graphql, home-assistant, html, javascript, javascriptreact, json, json5, jsonc, less, markdown, mdx, mongo, postcss, scss, typescript, typescriptreact, vue, yaml
+["INFO" - 3:55:59 pm] Enabling prettier for file extensions: .JSON-tmLanguage, ._js, .avsc, .bones, .cjs, .component.html, .css, .es, .es6, .frag, .geojson, .gltf, .gql, .graphql, .graphqls, .gs, .har, .htm, .html, .html.hl, .ice, .inc, .jake, .js, .js.flow, .jsb, .jscad, .jsfl, .jsm, .json, .json5, .jsonc, .jss, .jsx, .less, .markdown, .mcmeta, .md, .mdown, .mdwn, .mdx, .mir, .mjml, .mjs, .mkd, .mkdn, .mkdown, .njs, .pac, .pcss, .postcss, .reek, .ronn, .rviz, .scss, .sjs, .ssjs, .st, .sublime-build, .sublime-commands, .sublime-completions, .sublime-keymap, .sublime-macro, .sublime-menu, .sublime-mousemap, .sublime-project, .sublime-settings, .sublime-syntax, .sublime-theme, .sublime-workspace, .sublime_metrics, .sublime_session, .syntax, .tfstate, .tfstate.backup, .topojson, .ts, .tsx, .vue, .webapp, .webmanifest, .workbook, .wxs, .wxss, .xht, .xhtml, .xsjs, .xsjslib, .yaml, .yaml-tmlanguage, .yaml.sed, .yml, .yml.mysql, .yy, .yyp
+["INFO" - 3:55:59 pm] Enabling prettier for range supported languages: graphql, javascript, javascriptreact, json, typescript, typescriptreact
+["INFO" - 3:57:09 pm] Formatting /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+["INFO" - 3:57:09 pm] Using ignore file (if present) at /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/.prettierignore
+["INFO" - 3:57:09 pm] Using bundled version of prettier.
+["INFO" - 3:57:09 pm] File Info:
+{
+  "ignored": false,
+  "inferredParser": "less"
+}
+["INFO" - 3:57:09 pm] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:57:09 pm] Prettier Options:
+{
+  "filepath": "/var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less",
+  "parser": "less",
+  "useTabs": false,
+  "tabWidth": 4,
+  "endOfLine": "lf"
+}
+["INFO" - 3:57:09 pm] Formatting completed in 195.813167ms.
+["INFO" - 3:57:15 pm] Formatting /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+["INFO" - 3:57:15 pm] Using ignore file (if present) at /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/.prettierignore
+["INFO" - 3:57:15 pm] Using bundled version of prettier.
+["INFO" - 3:57:15 pm] File Info:
+{
+  "ignored": false,
+  "inferredParser": "less"
+}
+["INFO" - 3:57:15 pm] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 3:57:15 pm] Prettier Options:
+{
+  "filepath": "/var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less",
+  "parser": "less",
+  "useTabs": false,
+  "tabWidth": 4,
+  "endOfLine": "lf"
+}
+["INFO" - 3:57:15 pm] Formatting completed in 20.694ms.

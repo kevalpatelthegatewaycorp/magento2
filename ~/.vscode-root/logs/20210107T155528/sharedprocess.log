@@ -1,0 +1,9 @@
+[2021-01-07 15:55:33.184] [sharedprocess] [info] main {"machineId":"eebccd1e5ddd6dd87ae8df5031066e3bb39afec32e3e06f2e4012634bd919ac3","windowId":2}
+[2021-01-07 15:55:33.255] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/magento2/~/.vscode-root/User/snippets'
+[2021-01-07 15:56:13.200] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-01-07 15:56:39.773] [sharedprocess] [info] Installing extension: aeschli.vscode-css-formatter
+[2021-01-07 15:56:40.466] [sharedprocess] [info] Downloaded extension: aeschli.vscode-css-formatter undefined
+[2021-01-07 15:56:40.680] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.aeschli.vscode-css-formatter-1.0.1: aeschli.vscode-css-formatter
+[2021-01-07 15:56:40.680] [sharedprocess] [info] Renamed to /root/.vscode/extensions/aeschli.vscode-css-formatter-1.0.1
+[2021-01-07 15:56:40.681] [sharedprocess] [info] Installation completed. aeschli.vscode-css-formatter
+[2021-01-07 15:56:40.756] [sharedprocess] [info] Extensions installed successfully: aeschli.vscode-css-formatter

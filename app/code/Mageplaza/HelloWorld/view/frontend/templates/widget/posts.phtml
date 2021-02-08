@@ -1,0 +1,136 @@
+<?php if($block->getData('posts')): ?>
+	<h2 class='posts'><?php echo $block->getData('posts'); ?></h2>
+	<p>This is sample widgetss. Perform your code here.</p>
+<?php endif; ?>
+
+<!-- custom table postcode data starts -->
+<?php
+	
+// var_dump($block->getCollection());
+//     $objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+//     $model=$objectManager->create('Mageplaza\HelloWorld\Model\Postcode');
+//     $datacollection=$model->getCollection();
+//     echo "<table border=1><tr align=center><th>Id</th><th>Fist Name</th><th>Last Name</th></tr>";
+//     foreach ($datacollection as $data) {
+// 		var_dump('done');
+// 		print_r($datacollection);
+//         echo "<tr align=center>";
+//             echo "<td>".$data->getId()."</td>";
+//             echo "<td>".$data->getFirstname()."</td>";
+//             echo "<td>".$data->getLastname()."</td>";
+//         echo "</tr>";
+//     }
+//     echo "</table>";
+?>
+<!-- custom table postcode data end -->
+
+<!-- github api access starts -->
+<?php
+echo "The data given below is fetched from github to magento and displayed.</br>";
+$gitResponse = json_decode($block->fetchGitData());
+var_dump($gitResponse);
+// echo "<br>Full Name:- " . $gitResponse->full_name;
+// echo "<br>Description:- " . $gitResponse->description . "<br>";
+// echo "<br>html_url:- " . $gitResponse->html_url;
+// echo "<br>Language:- " . $gitResponse->language;
+
+?>
+<!-- github api access ends -->
+
+<div id="dependable-dropdown" data-bind="scope: 'dependableDropdown'">
+    <select data-bind="options: availableOptions,
+                       optionsText: 'label',
+                       optionsValue: 'value',
+                       optionsCaption: '---- Make ----', value: selectedItem" name="dropdown1"></select>
+    <select data-bind="options: availableOptions2,
+                       optionsText: 'label',
+                       optionsValue: 'value',
+                       optionsCaption: '---- Model ----', " name="dropdown2"></select>
+</div>
+<script type="text/x-magento-init">
+{
+    "#dependable-dropdown": {
+        "Magento_Ui/js/core/app": {
+           "components": {
+                "dependableDropdown": {
+                    "component": "Mageplaza_HelloWorld/js/dropdown",
+                    "config": <?= $block->getConfigData() ?>
+                }
+            }
+        }
+    }
+}
+</script>
+
+<?php
+
+$data =  json_encode(array(
+    "name"=>"John Doe",
+    "company"=>"Webkul"
+));
+?>
+
+<script type="text/x-magento-init">
+	{
+		"*":{
+			"mycomponent":{
+				"wkdata":<?php echo $data ?>
+			}
+		}
+	}
+</script>
+
+<!-- Popup start -->
+<div id="custom-model-popup">
+	<dl>
+		<dt>Definition list</dt>
+		<dd>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+		aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+		commodo consequat.</dd>
+		<dt>Lorem ipsum dolor sit amet</dt>
+		<dd>Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+		aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+		commodo consequat.</dd>
+	</dl>
+	<!-- <form action="/my-handling-form-page" method="post">
+		<div>
+			<label for="name">Name:</label>
+			<input type="text" id="name" name="user_name">
+		</div>
+		<div>
+			<label for="mail">E-mail:</label>
+			<input type="email" id="mail" name="user_mail">
+		</div>
+		<div>
+			<label for="msg">Message:</label>
+			<textarea id="msg" name="user_message"></textarea>
+		</div>
+	</form> -->
+</div>
+
+<!-- <script>
+	require([
+		"jquery",
+		"Magento_Ui/js/modal/modal"
+	], function($, modal){
+		var options = {
+			type: 'popup',
+			responsive: true,
+			innerScroll: true,
+			title: "Model Popup Heading...", //write your popup title 
+			buttons: [{
+				text: $.mage.__('Submit'),
+				class: 'button',
+				click: function () {
+					console.log('Do something here......');
+					// Do something here........
+				}
+			}]
+		};
+		var popupdata = $('<div />').append($('#custom-model-popup'));
+		modal(options, popupdata);
+		popupdata.modal('openModal');
+	});
+</script> -->
+
+<!-- Popup ends -->

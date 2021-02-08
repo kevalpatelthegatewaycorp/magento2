@@ -1,0 +1,13 @@
+{
+    "name": "GT/SellerService",
+    "description": "This module contains integration methods to communicate with external API for MAM seller services.",
+    "require": {
+        "php": "7.*"
+    },
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}

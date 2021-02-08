@@ -1,0 +1,14 @@
+{
+  "name": "GT/VehicleConfiguration",
+  "description": "Adds vehicle configurations.",
+  "version": "1.0.0",
+  "require": {
+    "php": "7.*"
+  },
+  "type": "magento2-module",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}

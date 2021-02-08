@@ -1,0 +1,13 @@
+{
+    "name": "GT/Api",
+    "description": "This module provides service to make SOAP requests by using Soap Client with the help of WSDL.",
+    "require": {
+        "php": "7.*"
+    },
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}

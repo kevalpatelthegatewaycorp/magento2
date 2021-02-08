@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="GT_MAMCatalogue::menu" title="MAMCatalogue Menu" module="GT_MAMCatalogue" sortOrder="10" resource="Magento_Backend::content" />
+        <add id="GT_MAMCatalogue::menu_item" title="Configuration" module="GT_MAMCatalogue" sortOrder="10" parent="GT_MAMCatalogue::menu" action="mamcatalogue/index/index" resource="GT_MAMCatalogue::menu_item" />
+    </menu>
+</config>

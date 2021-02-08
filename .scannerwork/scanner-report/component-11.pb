@@ -1,0 +1,1 @@
+ 2xmlXhr'app/code/GT/StoreLocator/etc/module.xml

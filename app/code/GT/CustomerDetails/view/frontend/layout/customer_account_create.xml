@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="fieldset.create.info.additional">
+            <block class="GT\CustomerDetails\Block\PhoneNumber" name="customer_phone_number" template="GT_CustomerDetails::phone_number.phtml" before="-"/>
+        </referenceContainer>
+        <referenceContainer name="form.additional.info">
+            <block class="Magento\CheckoutAgreements\Block\Agreements" name="register.agreements" as="agreements" template="Magento_CheckoutAgreements::additional_agreements.phtml"/>
+        </referenceContainer>
+    </body>
+</page>

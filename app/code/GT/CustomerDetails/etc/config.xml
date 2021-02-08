@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <customer>
+            <create_account>
+                <vat_frontend_visibility>1</vat_frontend_visibility>
+            </create_account>
+        </customer>
+         <newsletter>
+           <general>
+                <active>0</active>
+            </general>
+        </newsletter>
+        <checkout>
+            <options>
+                <enable_agreements>1</enable_agreements>
+            </options>
+        </checkout>
+    </default>
+</config>

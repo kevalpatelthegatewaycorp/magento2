@@ -1,0 +1,904 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :vendor/magento/theme-frontend-luma/web/css/critical.css
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/theme-frontend-luma/web/css/critical.css
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :vendor/magento/theme-frontend-blank/web/css/_styles.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/theme-frontend-blank/web/css/_styles.less
+> git show --textconv :vendor/magento/theme-frontend-blank/web/css/email-fonts.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/theme-frontend-blank/web/css/email-fonts.less
+> git show --textconv :vendor/magento/theme-frontend-blank/web/css/source/_actions-toolbar.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/theme-frontend-blank/web/css/source/_actions-toolbar.less
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :lib/web/css/docs/source/_actions-toolbar.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/lib/web/css/docs/source/_actions-toolbar.less
+> git cat-file -s e764326444de2c02866da673d152a05ea4ecbb40
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git cat-file -s 01de964090c4f14b311fd7f879ee4ef0757a1618
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git cat-file -s 01de964090c4f14b311fd7f879ee4ef0757a1618
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/gt_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/gt_custom.less
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/gt_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/gt_custom.less
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/_custom.less
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_extends.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_extends.less
+> git cat-file -s 5bdaa4c3c35a37a19d1c7151bc67a9c0625572e7
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_extends.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_extends.less
+> git cat-file -s 5bdaa4c3c35a37a19d1c7151bc67a9c0625572e7
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_extends.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_extends.less
+> git cat-file -s 5bdaa4c3c35a37a19d1c7151bc67a9c0625572e7
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/_custom.less
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/_custom.less
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/_custom.less
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git status -z -u
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :pub/static/frontend/GT/blank_child/en_US/css/styles-m.css
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/pub/static/frontend/GT/blank_child/en_US/css/styles-m.css
+> git check-ignore -v -z --stdin
+> git show --textconv :pub/static/frontend/GT/blank_child/en_US/css/styles-l.css
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/pub/static/frontend/GT/blank_child/en_US/css/styles-l.css
+> git show --textconv :pub/static/frontend/GT/blank_child/en_US/css/styles-m.css
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/pub/static/frontend/GT/blank_child/en_US/css/styles-m.css
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_extends.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_extends.less
+> git cat-file -s 5bdaa4c3c35a37a19d1c7151bc67a9c0625572e7
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_extends.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_extends.less
+> git cat-file -s 5bdaa4c3c35a37a19d1c7151bc67a9c0625572e7
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :pub/static/frontend/GT/blank_child/en_US/css/styles-l.css
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/pub/static/frontend/GT/blank_child/en_US/css/styles-l.css
+> git show --textconv :pub/static/frontend/GT/blank_child/en_US/css/styles-m.css
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/pub/static/frontend/GT/blank_child/en_US/css/styles-m.css
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :var/log/system.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/system.log
+> git show --textconv :var/log/exception.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/exception.log
+> git show --textconv :var/log/debug.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/debug.log
+> git show --textconv :var/log/system.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/system.log
+> git show --textconv :var/log/exception.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/exception.log
+> git show --textconv :var/log/debug.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/debug.log
+> git show --textconv :var/log/system.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/system.log
+> git show --textconv :var/log/exception.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/exception.log
+> git show --textconv :var/log/system.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/system.log
+> git status -z -u
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/system.log
+> git show --textconv :var/log/system.log
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/system.log
+> git show --textconv :var/log/system.log
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_custom.less
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git cat-file -s 01de964090c4f14b311fd7f879ee4ef0757a1618
+> git status -z -u
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git cat-file -s 01de964090c4f14b311fd7f879ee4ef0757a1618
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :vendor/magento/theme-frontend-luma/Magento_Wishlist/web/css/source/_module.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/theme-frontend-luma/Magento_Wishlist/web/css/source/_module.less
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :vendor/magento/module-catalog-widget/view/frontend/templates/product/widget/content/grid.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/view/frontend/templates/product/widget/content/grid.phtml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :vendor/magento/module-catalog-widget/etc/di.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/etc/di.xml
+> git show --textconv :vendor/magento/module-catalog-widget/etc/widget.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/etc/widget.xml
+> git show --textconv :vendor/magento/module-catalog-widget/Test/Mftf/Test/StorefrontProductGridUIUpdatesOnDesktopTest.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/Test/Mftf/Test/StorefrontProductGridUIUpdatesOnDesktopTest.xml
+> git check-ignore -v -z --stdin
+> git show --textconv :vendor/magento/module-catalog-widget/Test/Mftf/Section/ProductListWidgetSection.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/Test/Mftf/Section/ProductListWidgetSection.xml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/GT/CustomerDetails/Setup/Patch/Data/AddPhoneNumberAttribute.php
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/GT/CustomerDetails/Setup/Patch/Data/AddPhoneNumberAttribute.php
+> git cat-file -s 76bd550bb118d31173a95c7b73bcf2f578c50af1
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/GT/CustomerDetails/etc/module.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/GT/CustomerDetails/etc/module.xml
+> git cat-file -s 26e7487228de56bdfcef145eb6a226d4a99a2978
+> git show --textconv :app/code/GT/CustomerDetails/etc/config.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/GT/CustomerDetails/etc/config.xml
+> git cat-file -s 8b9fe64342ce188e5c24dd4b210b1384132cf1f2
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/GT/ApproveUser/etc/config.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/GT/ApproveUser/etc/config.xml
+> git cat-file -s 091b9d4831a76005e3f936ea291f7fbb2acc5d24
+> git show --textconv :app/code/GT/ApproveUser/etc/email_templates.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/GT/ApproveUser/etc/email_templates.xml
+> git cat-file -s cb0d6572d9868b8630f61420592bcc45cc68089c
+> git show --textconv :app/code/GT/ApproveUser/etc/module.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/GT/ApproveUser/etc/module.xml
+> git cat-file -s 0be3affcbd96a1bf5669704449876fbe10e3d9f6
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/GT/ApproveUser/etc/frontend/di.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/GT/ApproveUser/etc/frontend/di.xml
+> git cat-file -s 51466a04c5c6f0a57a09c81ad012ef9d98e0c2f7
+> git show --textconv :app/code/GT/ApproveUser/etc/frontend/events.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/GT/ApproveUser/etc/frontend/events.xml
+> git cat-file -s b11e0e47e143e958b5b36da51cec51054b4bda26
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/GT/ApproveUser/etc/adminhtml/routes.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/GT/ApproveUser/etc/adminhtml/routes.xml
+> git cat-file -s 244aa6bfc9f15e757e054966e92b642da09bcaee
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/GT/CustomerDetails/etc/config.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/GT/CustomerDetails/etc/config.xml
+> git cat-file -s 8b9fe64342ce188e5c24dd4b210b1384132cf1f2
+> git show --textconv :app/code/GT/CustomerDetails/etc/module.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/GT/CustomerDetails/etc/module.xml
+> git cat-file -s 26e7487228de56bdfcef145eb6a226d4a99a2978
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git cat-file -s 01de964090c4f14b311fd7f879ee4ef0757a1618
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git show --textconv :vendor/magento/module-catalog-widget/Test/Mftf/Section/ProductListWidgetSection.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/Test/Mftf/Section/ProductListWidgetSection.xml
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git cat-file -s 01de964090c4f14b311fd7f879ee4ef0757a1618
+> git show --textconv :vendor/magento/module-catalog-widget/Test/Mftf/Section/ProductListWidgetSection.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/Test/Mftf/Section/ProductListWidgetSection.xml
+> git show --textconv :vendor/magento/module-catalog-widget/etc/widget.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/etc/widget.xml
+> git show --textconv :vendor/magento/module-catalog-widget/etc/di.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/etc/di.xml
+> git show --textconv :vendor/magento/module-catalog-widget/etc/module.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/etc/module.xml
+> git show --textconv :vendor/magento/module-catalog-widget/etc/adminhtml/routes.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/etc/adminhtml/routes.xml
+> git show --textconv :vendor/magento/module-catalog-widget/Test/Mftf/Section/ProductListWidgetSection.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/Test/Mftf/Section/ProductListWidgetSection.xml
+> git show --textconv :vendor/magento/module-catalog-widget/Test/Mftf/Test/StorefrontProductGridUIUpdatesOnDesktopTest.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/Test/Mftf/Test/StorefrontProductGridUIUpdatesOnDesktopTest.xml
+> git check-ignore -v -z --stdin
+> git show --textconv :vendor/magento/module-catalog-widget/view/frontend/templates/product/widget/content/grid.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/view/frontend/templates/product/widget/content/grid.phtml
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git cat-file -s 01de964090c4f14b311fd7f879ee4ef0757a1618
+> git show --textconv :vendor/magento/module-catalog-widget/i18n/en_US.csv
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/i18n/en_US.csv
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git cat-file -s 01de964090c4f14b311fd7f879ee4ef0757a1618
+> git show --textconv :vendor/magento/module-catalog-widget/i18n/en_US.csv
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/i18n/en_US.csv
+> git show --textconv :vendor/magento/module-catalog-widget/composer.json
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/composer.json
+> git show --textconv :vendor/magento/module-catalog-widget/registration.php
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/registration.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_CatalogWidget/templates/product/list.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_CatalogWidget/templates/product/list.phtml
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git cat-file -s 01de964090c4f14b311fd7f879ee4ef0757a1618
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git cat-file -s 01de964090c4f14b311fd7f879ee4ef0757a1618
+> git show --textconv :vendor/magento/module-catalog-widget/i18n/en_US.csv
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/i18n/en_US.csv
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :vendor/magento/module-catalog-widget/view/frontend/templates/product/widget/content/grid.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog-widget/view/frontend/templates/product/widget/content/grid.phtml
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_CatalogWidget/templates/product/widget/content/grid.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_CatalogWidget/templates/product/widget/content/grid.phtml
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git cat-file -s 01de964090c4f14b311fd7f879ee4ef0757a1618
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show --textconv :app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/web/css/source/_theme.less
+> git cat-file -s e061a30d0dd5196b51712db8cb335d00d2f349a4
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Catalog/templates/product/list.phtml
+> git show --textconv :app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git cat-file -s 01de964090c4f14b311fd7f879ee4ef0757a1618
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git status -z -u
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git config --get commit.template
+> git cat-file -s d35723938360aed47cec9881f0fbb71296000acf
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git config --get commit.template
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+> git rev-list --left-right dev...refs/remotes/origin/dev
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+> git rev-list --left-right dev...refs/remotes/origin/dev
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+> git rev-list --left-right dev...refs/remotes/origin/dev
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git config --get commit.template
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+> git rev-list --left-right dev...refs/remotes/origin/dev
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse dev
+> git rev-parse --symbolic-full-name dev@{u}
+> git rev-list --left-right dev...refs/remotes/origin/dev
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git config --get commit.template
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git config --get commit.template
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git ls-tree -l HEAD -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv HEAD:app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/Magento_Theme/layout/default.xml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :.gitignore
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/.gitignore
+> git cat-file -s b0e9fd9c4bd36404df70fd1751e116534f88b8fb
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/Hiddentechies/bentriz_child/theme.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/Hiddentechies/bentriz_child/theme.xml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/Hiddentechies/bentriz_child/etc/view.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/Hiddentechies/bentriz_child/etc/view.xml
+> git show --textconv :.gitignore
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/.gitignore
+> git cat-file -s b0e9fd9c4bd36404df70fd1751e116534f88b8fb
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/design/frontend/Hiddentechies/bentriz_child/theme.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/Hiddentechies/bentriz_child/theme.xml
+> git show --textconv :app/design/frontend/GT/blank_child/theme.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/theme.xml
+> git cat-file -s 668d4e7d623ba6ca19c1296df22a290a05ed8d8f
+> git show --textconv :app/design/frontend/Hiddentechies/bentriz_child/theme.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/Hiddentechies/bentriz_child/theme.xml
+> git show --textconv :app/design/frontend/GT/blank_child/theme.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/GT/blank_child/theme.xml
+> git cat-file -s 668d4e7d623ba6ca19c1296df22a290a05ed8d8f
+> git show --textconv :app/design/frontend/Hiddentechies/bentriz_child/theme.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/Hiddentechies/bentriz_child/theme.xml
+> git show --textconv :app/design/frontend/Hiddentechies/bentriz_child/registration.php
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/Hiddentechies/bentriz_child/registration.php
+> git show --textconv :app/design/frontend/Hiddentechies/bentriz_child/composer.json
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/Hiddentechies/bentriz_child/composer.json
+> git show --textconv :app/design/frontend/Hiddentechies/bentriz_child/registration.php
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/Hiddentechies/bentriz_child/registration.php
+> git show --textconv :app/design/frontend/Hiddentechies/bentriz_child/composer.json
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/Hiddentechies/bentriz_child/composer.json
+> git show --textconv :app/design/frontend/Hiddentechies/bentriz_child/composer.json
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/design/frontend/Hiddentechies/bentriz_child/composer.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :.gitignore
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/.gitignore
+> git cat-file -s b0e9fd9c4bd36404df70fd1751e116534f88b8fb
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/.gitignore
+> git cat-file -s b0e9fd9c4bd36404df70fd1751e116534f88b8fb
+> git show --textconv :.gitignore
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/Demo/CategoryTree/etc/module.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/etc/module.xml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/Demo/CategoryTree/registration.php
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/registration.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/Demo/CategoryTree/Controller/Index/Index.php
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/Controller/Index/Index.php
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/layout/categorytree_index_index.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/layout/categorytree_index_index.xml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :vendor/magento/module-catalog/view/adminhtml/templates/catalog/category/tree.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog/view/adminhtml/templates/catalog/category/tree.phtml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/layout/categorytree_index_index.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/layout/categorytree_index_index.xml
+> git show --textconv :vendor/magento/module-catalog/view/adminhtml/templates/catalog/category/tree.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/vendor/magento/module-catalog/view/adminhtml/templates/catalog/category/tree.phtml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/templates/catalog/product.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/templates/catalog/product.phtml
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/layout/categorytree_index_index.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/layout/categorytree_index_index.xml
+> git check-ignore -v -z --stdin
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/templates/catalog/category/tree.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/templates/catalog/category/tree.phtml
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/requirejs-config.js
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/requirejs-config.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/requirejs-config.js
+> git config --get commit.template
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/requirejs-config.js
+> git status -z -u
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/requirejs-config.js
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/requirejs-config.js
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/templates/catalog/category/tree.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/templates/catalog/category/tree.phtml
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/layout/categorytree_index_index.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/layout/categorytree_index_index.xml
+> git show --textconv :app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git show --textconv :app/code/Demo/CategoryTree/registration.php
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/registration.php
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/registration.php
+> git check-ignore -v -z --stdin
+> git show --textconv :app/etc/config.php
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/etc/config.php
+> git show --textconv :app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git show --textconv :app/code/Demo/CategoryTree/etc/module.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/etc/module.xml
+> git show --textconv :app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git show --textconv :app/code/Demo/CategoryTree/Controller/Index/Index.php
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/Controller/Index/Index.php
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/requirejs-config.js
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/requirejs-config.js
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/templates/catalog/category/tree.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/templates/catalog/category/tree.phtml
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/requirejs-config.js
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/requirejs-config.js
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/layout/categorytree_index_index.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/layout/categorytree_index_index.xml
+> git show --textconv :app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git show --textconv :app/code/Demo/CategoryTree/etc/module.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/etc/module.xml
+> git show --textconv :app/code/Demo/CategoryTree/Controller/Index/Index.php
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/Controller/Index/Index.php
+> git show --textconv :app/code/Demo/CategoryTree/registration.php
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/registration.php
+> git show --textconv :app/code/Demo/CategoryTree/etc/module.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/etc/module.xml
+> git show --textconv :app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :var/log/system.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/system.log
+> git show --textconv :var/log/exception.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/exception.log
+> git show --textconv :var/log/debug.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/debug.log
+> git show --textconv :var/log/exception.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/exception.log
+> git show --textconv :var/log/debug.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/debug.log
+> git show --textconv :var/log/system.log
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/var/log/system.log
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/templates/catalog/category/tree.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/templates/catalog/category/tree.phtml
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/layout/categorytree_index_index.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/layout/categorytree_index_index.xml
+> git show --textconv :app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git show --textconv :app/code/Demo/CategoryTree/Controller/Index/Index.php
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/Controller/Index/Index.php
+> git show --textconv :app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/etc/frontend/route.xml
+> git show --textconv :app/code/Demo/CategoryTree/etc/module.xml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/etc/module.xml
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/requirejs-config.js
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/requirejs-config.js
+> git show --textconv :app/code/Demo/CategoryTree/view/frontend/templates/catalog/category/tree.phtml
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/app/code/Demo/CategoryTree/view/frontend/templates/catalog/category/tree.phtml
+> git show --textconv :.gitignore
+> git ls-files --stage -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/.gitignore
+> git cat-file -s b0e9fd9c4bd36404df70fd1751e116534f88b8fb
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse child-theme
+> git rev-parse --symbolic-full-name child-theme@{u}
+> git rev-list --left-right child-theme...refs/remotes/origin/child-theme
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/.gitignore

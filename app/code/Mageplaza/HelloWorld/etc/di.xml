@@ -1,0 +1,37 @@
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/ObjectManager/etc/config.xsd">
+
+    <type name="Magento\Framework\View\Element\UiComponent\DataProvider\CollectionFactory">
+        <arguments>
+            <argument name="collections" xsi:type="array">
+                <item name="mageplaza_helloworld_post_listing_data_source" xsi:type="string">Mageplaza\HelloWorld\Model\ResourceModel\Post\Grid\Collection</item>
+            </argument>
+        </arguments>
+    </type>
+    <virtualType name="Mageplaza\HelloWorld\Model\ResourceModel\Post\Grid\Collection" type="Magento\Framework\View\Element\UiComponent\DataProvider\SearchResult">
+        <arguments>
+            <argument name="mainTable" xsi:type="string">mageplaza_helloworld_post</argument>
+            <argument name="resourceModel" xsi:type="string">Mageplaza\HelloWorld\Model\ResourceModel\Post</argument>
+        </arguments>
+    </virtualType>
+
+    <type name="Mageplaza\HelloWorld\Controller\Index\Example">
+        <plugin name="Mageplaza_HelloWorld_Plugin" type="Mageplaza\HelloWorld\Plugin\ExamplePlugin" sortOrder="10" disabled="false"  />
+    </type>
+
+    <type name="Magento\Framework\Console\CommandList">
+        <arguments>
+            <argument name="commands" xsi:type="array">
+                <item name="exampleSayHello" xsi:type="object">Mageplaza\HelloWorld\Console\Sayhello</item>
+            </argument>
+        </arguments>
+    </type>
+
+    <preference for="Magento\Catalog\Model\Layer\ContextInterface" type="Magento\Catalog\Model\Layer\Context" />
+    <preference for="Magento\Catalog\Model\Layer\ItemCollectionProviderInterface" type="Magento\Catalog\Model\Layer\Category\ItemCollectionProvider" />
+    <preference for="Magento\Catalog\Model\Layer\StateKeyInterface" type="Magento\Catalog\Model\Layer\Category\StateKey" />
+    <preference for="Magento\Catalog\Model\Layer\CollectionFilterInterface" type="Magento\Catalog\Model\Layer\Category\CollectionFilter" />
+    <preference for="Magento\Catalog\Model\Layer\FilterableAttributeListInterface" type="Magento\Catalog\Model\Layer\Category\FilterableAttributeList" />
+    <preference for="Magento\Catalog\Model\Layer\AvailabilityFlagInterface" type="Magento\Catalog\Model\Layer\Category\AvailabilityFlag" />
+    <preference for="Magento\Catalog\Model\ResourceModel\Layer\Filter\Price" type="Webkul\LayeredNavigation\Model\ResourceModel\Layer\Filter\Price" />
+
+</config>

@@ -1,0 +1,14 @@
+[Info  - 4:34:26 pm] Initialising intelephense 1.6.1
+[Info  - 4:34:26 pm] Initialised in 8 ms
+[Warn  - 4:34:30 pm] file:///var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/generated/metadata/adminhtml.php is over the maximum file size of 1000000 bytes.
+[Warn  - 4:34:30 pm] file:///var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/generated/metadata/crontab.php is over the maximum file size of 1000000 bytes.
+[Warn  - 4:34:30 pm] file:///var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/generated/metadata/frontend.php is over the maximum file size of 1000000 bytes.
+[Warn  - 4:34:30 pm] file:///var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/generated/metadata/global.php is over the maximum file size of 1000000 bytes.
+[Warn  - 4:34:30 pm] file:///var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/generated/metadata/graphql.php is over the maximum file size of 1000000 bytes.
+[Warn  - 4:34:30 pm] file:///var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/generated/metadata/interception.php is over the maximum file size of 1000000 bytes.
+[Warn  - 4:34:30 pm] file:///var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/generated/metadata/webapi_rest.php is over the maximum file size of 1000000 bytes.
+[Warn  - 4:34:30 pm] file:///var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/generated/metadata/webapi_soap.php is over the maximum file size of 1000000 bytes.
+[Info  - 4:34:30 pm] Indexing started.
+[Info  - 4:36:00 pm] Indexing ended. 44579 files indexed in 90s.
+[Info  - 4:36:00 pm] Writing state to /var/www/html/magento2/~/.vscode-root/User/workspaceStorage/359f5df4cde54282614192f0f78a1e81/bmewburn.vscode-intelephense-client/449755bd.
+[Info  - 4:36:05 pm] Wrote state in 5.2s.

@@ -1,0 +1,3 @@
+[2021-01-07 15:55:52.025] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/html/GT/4517_General_Traffic_RapidGroup_Webshop/.vscode'
+[2021-01-07 15:56:09.982] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-01-07 15:56:09.984] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)

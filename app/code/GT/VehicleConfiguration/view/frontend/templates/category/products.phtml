@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * Category view template
+ *
+ * @var $block \Magento\Catalog\Block\Category\View
+ */
+?>
+<?php if (!$block->isContentMode() || $block->isMixedMode()) : ?>
+    <?php if ($block->getCurrentCategory()->getData('is_vehicle_specific')) : ?>
+        <span><?php echo '<h1>Require Make/Model/Search</h1>' ?></span>
+    <?php else : ?>
+        <?= $block->getProductListHtml() ?>
+    <?php endif; ?>
+<?php endif; ?>

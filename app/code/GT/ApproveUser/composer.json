@@ -1,0 +1,11 @@
+{
+  "name": "GT/ApproveUser",
+  "description": "Adds functionality to Approve user after registration.",
+  "require": {
+    "php": "7.*"
+  },
+  "type": "magento2-module",
+  "autoload": {
+    "files": [ "registration.php" ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "GT/CustomerDetails",
+  "description": "Adds and removes customer registration and auxillary details.",
+  "require": {
+    "php": "7.*"
+  },
+  "type": "magento2-module",
+  "autoload": {
+    "files": [ "registration.php" ]
+  }
+}

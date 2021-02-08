@@ -1,0 +1,9 @@
+<?php
+$phoneNumber = $block->getCustomerPhoneNumber();
+?>
+<div class="field phone_number">
+   <label class="label" for="customer_phone_number"><span><?php echo __('Phone Number') ?></span></label>
+    <div class="control">
+        <input type="text" <?php if($phoneNumber != '') echo 'disabled'; ?> id="customer_phone_number" value="<?= $phoneNumber ?>" name="customer_phone_number" data-validate='{"maxlength":15}'  title="<?php echo __('Phone Number') ?>" class="input-text" autocomplete="off">
+    </div>
+</div>
