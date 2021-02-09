@@ -1,0 +1,1 @@
+/var/www/html/magento2/vendor/magento/module-inventory-admin-ui/view/adminhtml/web/js/form/element/region.js
